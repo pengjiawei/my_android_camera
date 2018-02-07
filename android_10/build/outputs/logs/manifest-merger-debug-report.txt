@@ -1,0 +1,89 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\WORK\ASWorkSpace\my_android_camera\android_10\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from D:\WORK\ASWorkSpace\my_android_camera\android_10\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from D:\WORK\ASWorkSpace\my_android_camera\android_10\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from D:\WORK\ASWorkSpace\my_android_camera\android_10\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from D:\WORK\ASWorkSpace\my_android_camera\android_10\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from D:\WORK\ASWorkSpace\my_android_camera\android_10\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from D:\WORK\ASWorkSpace\my_android_camera\android_10\src\main\AndroidManifest.xml:2:1-32:12
+	package
+		ADDED from D:\WORK\ASWorkSpace\my_android_camera\android_10\src\main\AndroidManifest.xml:4:11-47
+		INJECTED from D:\WORK\ASWorkSpace\my_android_camera\android_10\src\main\AndroidManifest.xml
+		INJECTED from D:\WORK\ASWorkSpace\my_android_camera\android_10\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\WORK\ASWorkSpace\my_android_camera\android_10\src\main\AndroidManifest.xml
+		ADDED from D:\WORK\ASWorkSpace\my_android_camera\android_10\src\main\AndroidManifest.xml:2:1-32:12
+		INJECTED from D:\WORK\ASWorkSpace\my_android_camera\android_10\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\WORK\ASWorkSpace\my_android_camera\android_10\src\main\AndroidManifest.xml:3:11-57
+	android:versionCode
+		INJECTED from D:\WORK\ASWorkSpace\my_android_camera\android_10\src\main\AndroidManifest.xml
+		ADDED from D:\WORK\ASWorkSpace\my_android_camera\android_10\src\main\AndroidManifest.xml:2:1-32:12
+		INJECTED from D:\WORK\ASWorkSpace\my_android_camera\android_10\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\WORK\ASWorkSpace\my_android_camera\android_10\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\WORK\ASWorkSpace\my_android_camera\android_10\src\main\AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from D:\WORK\ASWorkSpace\my_android_camera\android_10\src\main\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\WORK\ASWorkSpace\my_android_camera\android_10\src\main\AndroidManifest.xml:9:5-75
+	android:name
+		ADDED from D:\WORK\ASWorkSpace\my_android_camera\android_10\src\main\AndroidManifest.xml:9:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from D:\WORK\ASWorkSpace\my_android_camera\android_10\src\main\AndroidManifest.xml:10:5-75
+	android:name
+		ADDED from D:\WORK\ASWorkSpace\my_android_camera\android_10\src\main\AndroidManifest.xml:10:22-73
+uses-permission#android.permission.WAKE_LOCK
+ADDED from D:\WORK\ASWorkSpace\my_android_camera\android_10\src\main\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from D:\WORK\ASWorkSpace\my_android_camera\android_10\src\main\AndroidManifest.xml:11:22-65
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from D:\WORK\ASWorkSpace\my_android_camera\android_10\src\main\AndroidManifest.xml:12:5-77
+	android:name
+		ADDED from D:\WORK\ASWorkSpace\my_android_camera\android_10\src\main\AndroidManifest.xml:12:22-75
+application
+ADDED from D:\WORK\ASWorkSpace\my_android_camera\android_10\src\main\AndroidManifest.xml:14:5-30:19
+	android:label
+		ADDED from D:\WORK\ASWorkSpace\my_android_camera\android_10\src\main\AndroidManifest.xml:16:9-41
+	android:icon
+		ADDED from D:\WORK\ASWorkSpace\my_android_camera\android_10\src\main\AndroidManifest.xml:15:9-36
+	tools:replace
+		ADDED from D:\WORK\ASWorkSpace\my_android_camera\android_10\src\main\AndroidManifest.xml:17:9-37
+activity#org.ros.android.MasterChooser
+ADDED from D:\WORK\ASWorkSpace\my_android_camera\android_10\src\main\AndroidManifest.xml:18:9-22:44
+	android:label
+		ADDED from D:\WORK\ASWorkSpace\my_android_camera\android_10\src\main\AndroidManifest.xml:21:13-45
+	android:launchMode
+		ADDED from D:\WORK\ASWorkSpace\my_android_camera\android_10\src\main\AndroidManifest.xml:22:13-42
+	android:theme
+		ADDED from D:\WORK\ASWorkSpace\my_android_camera\android_10\src\main\AndroidManifest.xml:20:13-51
+	android:name
+		ADDED from D:\WORK\ASWorkSpace\my_android_camera\android_10\src\main\AndroidManifest.xml:19:13-57
+service#org.ros.android.NodeMainExecutorService
+ADDED from D:\WORK\ASWorkSpace\my_android_camera\android_10\src\main\AndroidManifest.xml:24:9-29:19
+	tools:ignore
+		ADDED from D:\WORK\ASWorkSpace\my_android_camera\android_10\src\main\AndroidManifest.xml:25:18-48
+	android:name
+		ADDED from D:\WORK\ASWorkSpace\my_android_camera\android_10\src\main\AndroidManifest.xml:24:18-72
+intent-filter#org.ros.android.NodeMainExecutorService
+ADDED from D:\WORK\ASWorkSpace\my_android_camera\android_10\src\main\AndroidManifest.xml:26:13-28:29
+action#org.ros.android.NodeMainExecutorService
+ADDED from D:\WORK\ASWorkSpace\my_android_camera\android_10\src\main\AndroidManifest.xml:27:17-81
+	android:name
+		ADDED from D:\WORK\ASWorkSpace\my_android_camera\android_10\src\main\AndroidManifest.xml:27:25-79
+uses-sdk
+INJECTED from D:\WORK\ASWorkSpace\my_android_camera\android_10\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\WORK\ASWorkSpace\my_android_camera\android_10\src\main\AndroidManifest.xml
+INJECTED from D:\WORK\ASWorkSpace\my_android_camera\android_10\src\main\AndroidManifest.xml
+INJECTED from D:\WORK\ASWorkSpace\my_android_camera\android_10\src\main\AndroidManifest.xml
+INJECTED from D:\WORK\ASWorkSpace\my_android_camera\android_10\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\WORK\ASWorkSpace\my_android_camera\android_10\src\main\AndroidManifest.xml
+		ADDED from D:\WORK\ASWorkSpace\my_android_camera\android_10\src\main\AndroidManifest.xml
+		INJECTED from D:\WORK\ASWorkSpace\my_android_camera\android_10\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\WORK\ASWorkSpace\my_android_camera\android_10\src\main\AndroidManifest.xml
+		ADDED from D:\WORK\ASWorkSpace\my_android_camera\android_10\src\main\AndroidManifest.xml
+		INJECTED from D:\WORK\ASWorkSpace\my_android_camera\android_10\src\main\AndroidManifest.xml
